@@ -31,7 +31,7 @@
        )
       ]
   (software "ruby"
-            :source "ruby-1.9.2-p180"
+            :source "ruby-1.9.3-p125"
             :steps [
                     {:env env
                      :command "/opt/opscode/embedded/bin/autoconf"
