@@ -19,4 +19,4 @@
 
 (project "chef-full" "0.10.8" "2"
          :build-order [ "prep" "help2man" "libtool" "autoconf" "automake" "gdbm" "zlib" "libiconv" "readline" "db" "ncurses"
-                        "openssl" "libxml2" "libxslt" "ruby" "rsync" "chef" ])
+                        "openssl" "libxml2" "libxslt" "yaml" "ruby" "rsync" "chef" ])
